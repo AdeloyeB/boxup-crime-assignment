@@ -6,16 +6,20 @@ This is createPathway assignment. Our brief is to create a website for Prospex u
 
 ### 1.1 Technical Criteria: (40%)
 
+#### Beyond Criteria:
+
+- [x] Google Maps showing location of where Box Uo Crime is located - NOTE: APIKEY I inserted is my personal one and it's for test purposes only.
+
 #### The website should:
 
 - [ ] Be marked up using semantic HTML5 elements including main, section, nav and article
 - [ ] Be fully accessible including aria-labels, tab index, title, alt and role attributes
-- [ ] Use a CSS framework such as Bootstrap or Tachyons for visual layout
+- [x] Use a CSS framework such as Bootstrap or Tachyons for visual layout
 
 - [ ] Have a consistent approach to typography
 - [ ] Use colours that meet Web Content Accessibility Guidelines
-- [ ] Be responsive
-- [ ] Work in multiple browsers
+- [x] Be responsive
+- [x] Work in multiple browsers
 
 ### Client Criteria: 20%
 
