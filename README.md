@@ -1,6 +1,6 @@
 # assignment-prospex-website
 
-This is createPathway assignment. Our brief is to create a website for Prospex using a CMS system like Hugo or Jekyll.
+This is creativePathway assignment. Our brief is to create a website for Prospex using a CMS system like Hugo or Jekyll.
 
 # Task 1: Basic Requirements (60%)
 
@@ -16,7 +16,7 @@ This is createPathway assignment. Our brief is to create a website for Prospex u
 - [ ] Be fully accessible including aria-labels, tab index, title, alt and role attributes
 - [x] Use a CSS framework such as Bootstrap or Tachyons for visual layout
 
-- [ ] Have a consistent approach to typography
+- [x] Have a consistent approach to typography
 - [ ] Use colours that meet Web Content Accessibility Guidelines
 - [x] Be responsive
 - [x] Work in multiple browsers
@@ -42,7 +42,7 @@ This is createPathway assignment. Our brief is to create a website for Prospex u
 
 Hand in:
 
-- [ ] A git repository
+- [x] A git repository
 - [ ] The URL of your site
 - [ ] Login details to your CMS (if applicable)
 
