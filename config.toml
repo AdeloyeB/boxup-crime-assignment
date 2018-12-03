@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-    logo = "images/client-logo/logo-2.png"
+    logo = ""
 
     [[Params.listeLangues]]
     code = "en"
@@ -33,7 +33,7 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = "images/logo.png"
+    logo = ""
     menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -56,8 +56,8 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "ENGLISH We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        title   = "Rebuilding Misguided Dreams"
+        description = "We are a social youth organisation operating out of the London borough Barking and Dagenham. We work with young people at risk of having their lives ruined by crime and motivate them to rebuild and recapture their dreams and aspirations. We believe that every young person is entitled to a bright future, inspired by their hopes and dreams, regardless of their background. We are passionate about getting thousands of young people out of gangs each year."
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -65,6 +65,8 @@ DefaultContentLanguage = "en"
         topTitle= "OUR UNTOLD STORY"
         title   = "ENGLISH Blog."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+        
 
     # Contact Section
     [Languages.en.params.contact]

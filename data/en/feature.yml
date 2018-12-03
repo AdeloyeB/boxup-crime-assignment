@@ -1,16 +1,13 @@
-enable  : true
-item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : ENGLISH WordPress Theme
-    description : >
+enable: true
+item:
+  - title: Choose Yourself
+    description: >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
-    description : >
+  - title: Understanding Life
+    description: >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
-    description : >
+  - title: Freedom
+    description: >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.

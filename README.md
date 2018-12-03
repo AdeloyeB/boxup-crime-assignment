@@ -33,7 +33,8 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 ### 2.1 Technical Criteria: (15%)
 
 - [ ] Pages and posts are editable by the client using a content management system.
-- [ ] Deploys automatically on a push to the master branch.
+- [x] Deploys automatically on a push to the master branch to live site.
+- [x] Deploys automatically on a push to the test branch to test site.
 
 ### 2.2 Client Criteria: (25%)
 
@@ -45,7 +46,7 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 Hand in:
 
 - [x] A git repository
-- [ ] The URL of your site
+- [x] The URL of your site
 - [ ] Login details to your CMS (if applicable)
 
 # What I Have Used:

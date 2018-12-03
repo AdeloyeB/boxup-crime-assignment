@@ -1,42 +1,42 @@
-enable  : true
+enable: true
 topTitle: RECENT WORK
-title   : ENGLISH WORK SHOWCASE.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+title: BOXUP SHOWCASE
+subtitle: Amazing photos of what we've done in our community
 
-filtermenu :
-  - name      : Photography
-    category  : photography
+filtermenu:
+  - name: Young People
+    category: Young People
 
-  - name      : Ios App
-    category  : ios
+  - name: Global
+    category: Global
 
-  - name      : Development
-    category  : development
+  - name: Training
+    category: Training
 
-  - name      : Design
-    category  : design
+  - name: London
+    category: London
 
-item   :
-  - title : AirBnB Postcard
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
+item:
+  - title: AirBnB Postcard
+    image: images/portfolio/portfolio-1.jpg
+    category: photography
 
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios design
+  - title: D Design
+    image: images/portfolio/portfolio-2.jpg
+    category: ios design
 
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography development
+  - title: Xbox 360
+    image: images/portfolio/portfolio-3.jpg
+    category: photography development
 
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
+  - title: Ballon Card
+    image: images/portfolio/portfolio-4.jpg
+    category: ios
 
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
-    category  : design
+  - title: Ready Toons
+    image: images/portfolio/portfolio-5.jpg
+    category: design
 
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
-    category  : development
+  - title: Illustration
+    image: images/portfolio/portfolio-6.jpg
+    category: development
