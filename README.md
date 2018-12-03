@@ -10,6 +10,8 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 
 - [x] Google Maps showing location of where Box Uo Crime is located - NOTE: APIKEY I inserted is my personal one and it's for test purposes only.
 
+- [x] .gitmodules has submodule which creates a link to the github theme page. This means users will know they have to download the theme as well as my project to ensure everything is fully working.
+
 #### The website should:
 
 - [ ] Be marked up using semantic HTML5 elements including main, section, nav and article
