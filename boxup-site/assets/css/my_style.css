@@ -17,3 +17,8 @@
     background: #fff;
     box-shadow: none;
   }
+
+
+  .navbar-header-custom{
+    color: #fff !important;
+  }
