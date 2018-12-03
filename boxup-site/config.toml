@@ -29,7 +29,7 @@ DefaultContentLanguage = "en"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "ENGLISH Example site multi-language"
+    title = "BOXUP CRIME - FOR YOUNG PEOPLE"
     dateFormat = "January 2, 2006"
 
     home = "Home"
@@ -51,7 +51,7 @@ DefaultContentLanguage = "en"
         btnText = "Know More"
         btnURL  = "about"
         videoThumb = "images/boxup-logo.png"
-        videoURL   = "https://www.youtube.com/watch?v=c4V3wEqG774"
+        videoURL   = "https://www.youtube.com/embed/6A_TyAMSG40"
 
     # About 2 Section
     [Languages.en.params.aboutSm]
