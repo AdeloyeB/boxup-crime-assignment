@@ -37,8 +37,7 @@ DefaultContentLanguage = "en"
     menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "ENGLISH Service"
-    footerQuicklinkTitle = "ENGLISH Quicklinks"
+    footerServiceTitle = "Quicklinks"
     footerAboutTitle = "ENGLISH About"
     footerSubscribeTitle = "ENGLISH Subscribe"
 
@@ -73,7 +72,7 @@ DefaultContentLanguage = "en"
         enable  = true
         topTitle= "Contact Us"
         title   = "Where are we"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "We have missions going on all around the world, but our main headquarters is here in London. Come for a visit!"
         address = "59 Grosvenor Road, Dagenham, Essex, RM8 1NL"
         phone   = "07504628848"
         fax     = "0208 517 4446"
@@ -120,32 +119,19 @@ DefaultContentLanguage = "en"
 
     # Footer Service Menu
     [[menu.service]]
-        name    = "graphicdesign"
-        url     = "service"
-        weight  = 1
-    [[menu.service]]
-        name    = "webdesign"
-        url     = "service"
-        weight  = 2
-    [[menu.service]]
-        name    = "webdevelopment"
-        url     = "service"
-        weight  = 3
-
-    # Footer Quick links Menu
-    [[menu.quicklink]]
         name    = "partners"
         url     = "about"
         weight  = 1
-    [[menu.quicklink]]
+    [[menu.service]]
         name    = "about"
         url     = "about"
         weight  = 2
-    [[menu.quicklink]]
+    [[menu.service]]
         name    = "faqs"
         url     = "about"
         weight  = 3
-    [[menu.quicklink]]
+    [[menu.service]]
         name    = "badges"
         url     = "about"
-        weight  = 4
+        weight  = 3
+
