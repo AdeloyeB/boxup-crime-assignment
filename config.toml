@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-    logo = ""
+    logo = "images/boxup-logo.png"
 
     [[Params.listeLangues]]
     code = "en"
@@ -33,7 +33,7 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = ""
+    logo = "images/boxup-logo.png"
     menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -87,7 +87,7 @@ DefaultContentLanguage = "en"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "ENGLISH Let's Create Something Together"
+        title   = "Helping the misguided find a new path"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
         btnText = "Contact Us"
 

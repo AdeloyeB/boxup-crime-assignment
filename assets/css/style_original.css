@@ -1261,7 +1261,7 @@ a:hover {
 }
 
 .service-list .block {
-  background: #f0326b;
+  background: #d21111;
   color: #fff;
   padding: 30px;
 }
@@ -1433,7 +1433,7 @@ a:hover {
 }
 
 .team-member .member-content ul li a i {
-  color: #f0326b;
+  color: #d21111;
   background: linear-gradient(100deg, #f9643d, #fe2a77);
   background-clip: text;
   -webkit-background-clip: text;

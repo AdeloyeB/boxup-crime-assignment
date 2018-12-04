@@ -1,25 +1,19 @@
-enable : true
-item    :
-  - quote       : >
-      ENGLISH Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : ENGLISH Matt Cutts
-    clientDesignation: CEO , Company Name
+enable: true
+item:
+  - quote: >
+      The coaches and athletes made me feel like I was part of the box by helping and cheering me on and that was the case for everyon
+    clientThumb: images/client-logo/clients-1.jpg
+    clientName: JOHN A. MILLER
+    clientDesignation:
 
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : ENGLISH Elon Mask
-    clientDesignation: CEO , Company Name
+  - quote: >
+      This place is the bomb! Their coaches make sure you have the proper form and are always pushing you to go further.
+    clientThumb: images/client-logo/clients-2.jpg
+    clientName: IAN GIBSON
+    clientDesignation:
 
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : ENGLISH Matt Cutts
-    clientDesignation: CEO , Company Name
-
-  - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : ENGLISH Elon Mask
-    clientDesignation: CEO , Company Name
+  - quote: >
+      It was a great experience visiting the main headquarters in London. Meeting Stephen first-hand and hearing about his journey was awe-inspring. I am proud to have worked on this website for him.
+    clientThumb: images/client-logo/clients-1.jpg
+    clientName: BODE ADELOYE
+    clientDesignation:
