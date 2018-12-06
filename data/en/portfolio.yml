@@ -4,8 +4,8 @@ title: BOXUP SHOWCASE
 subtitle: Amazing photos of what we've done in our community
 
 filtermenu:
-  - name: Young People
-    category: Young People
+  - name: young
+    category: young
 
   - name: Global
     category: Global
@@ -17,16 +17,16 @@ filtermenu:
     category: London
 
 item:
-  - title: AirBnB Postcard
-    image: images/portfolio/portfolio-1.jpg
-    category: photography
+  - title: Making a Difference
+    image: images/portfolio/test.jpg
+    category: young
 
   - title: D Design
-    image: images/portfolio/portfolio-2.jpg
-    category: ios design
+    image: images/portfolio/600plusworkingweekly.jpg
+    category: young
 
   - title: Xbox 360
-    image: images/portfolio/portfolio-3.jpg
+    image: images/portfolio/portfolio-4.jpg
     category: photography development
 
   - title: Ballon Card

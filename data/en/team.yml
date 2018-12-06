@@ -1,10 +1,10 @@
 enable: true
 topTitle: The Team
 title: How It All Started
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: We strive to develop strong relationships with secondary schools within the borough, promising to provide assistance to improve student’s behaviour.
 
 member:
-  - image: images/team/member-1.jpg
+  - image: images/team/test-port-image.jpg
     name: Stephen Addison
     designation: The Founder
     description: >

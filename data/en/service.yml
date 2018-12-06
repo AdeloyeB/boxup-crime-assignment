@@ -1,25 +1,9 @@
 enable: true
-topTitle: A LIST OF SERVICES
-title: ENGLISH Our Service.
+title: We show our kids a different way to make a difference
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item:
-  - title: ENGLISH Branding
-    list:
-      - name: Brand Strategy
-      - name: Advertising / Campaigns
-      - name: Product Design
-      - name: Video / Photography
+  - title: 25% Reduction in serious youth violence in Barking and Dagenham
 
-  - title: ENGLISH Branding
-    list:
-      - name: Web Design
-      - name: E- Commerce Site Design
-      - name: App Development
-      - name: Mobile UI Design
+  - title: We are a youth led community. We are here to learn and grow
 
-  - title: ENGLISH IOS App
-    list:
-      - name: Game Development
-      - name: Game Design
-      - name: Social Media Marketing
-      - name: Mobile UI Design
+  - title: 28% Reduction in students getting in trouble at school That's change

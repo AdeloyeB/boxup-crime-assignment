@@ -1009,67 +1009,6 @@ a:hover {
   color: #666;
 }
 
-/*=================================================================
-  Pricing section
-==================================================================*/
-.pricing-table .pricing-item {
-  margin-bottom: 15px;
-  border-radius: 3px;
-  padding-bottom: 40px;
-  text-align: center;
-  background: #f9f9f9;
-}
-
-.pricing-table .pricing-item a.btn-main,
-.pricing-table .pricing-item a.btn-main-sm {
-  text-transform: uppercase;
-  margin-top: 20px;
-}
-
-.pricing-table .pricing-item ul {
-  padding: 20px 0 10px;
-}
-
-.pricing-table .pricing-item li {
-  font-weight: 400;
-  padding: 10px 0;
-  color: #666;
-}
-
-.pricing-table .pricing-item li i {
-  margin-right: 6px;
-}
-
-.pricing-table .price-title {
-  padding: 30px 0 20px;
-  text-align: center;
-  border-top-right-radius: 3px;
-  border-top-left-radius: 3px;
-  color: #fff;
-}
-
-.pricing-table .price-title>h3 {
-  color: #fff;
-  font-weight: 700;
-  margin: 0 0 5px;
-  font-size: 15px;
-  text-transform: uppercase;
-}
-
-.pricing-table .price-title>p {
-  color: #fff;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 18px;
-  margin-top: 5px;
-  width: 60%;
-  margin: 0 auto;
-}
-
-.pricing-table .price-title .value {
-  font-size: 50px;
-  padding: 10px 0;
-}
 
 /*=================================================================
   Portfolio section
@@ -1095,12 +1034,12 @@ a:hover {
 }
 
 .portfolio-filter button:hover {
-  border-bottom: 2px solid #f0326b;
+  border-bottom: 2px solid #d21111;
   color: #000;
 }
 
 .portfolio-filter button.mixitup-control-active {
-  border-bottom: 2px solid #f0326b;
+  border-bottom: 2px solid #d21111;
   color: #000;
 }
 
@@ -1122,7 +1061,7 @@ a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(240, 50, 107, 0.9);
+  background: rgba(240, 50, 50, 0.9);
   transition: .3s all;
 }
 
@@ -1164,7 +1103,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #f0326b;
+  background: #d21111;
   color: #fff;
   display: inline-block;
   padding: 4px 13px;
@@ -1482,7 +1421,7 @@ a:hover {
 
 .testimonial .item .client-meta {
   margin-top: 8px;
-  color: #fff;
+  color: #d21111;
 }
 
 .testimonial .item .client-meta h4 {
