@@ -162,6 +162,8 @@ a:hover {
   outline: 0;
 }
 
+/*
+
 #preloader {
   background: #d21111;
   height: 100%;
@@ -345,6 +347,7 @@ a:hover {
     transform: scale(1);
   }
 }
+*/
 
 .title {
   padding-bottom: 50px;
