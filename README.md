@@ -43,6 +43,10 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
       you need to use your judgement as the designer to help the client communicate
       effectively online.
 
+### Prior Issues
+
+- [x] Had trouble with absoulute and relative URLs. This was fixed by adding a baseURL in the config file.
+
 Hand in:
 
 - [x] A git repository
