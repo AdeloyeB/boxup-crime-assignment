@@ -61,9 +61,9 @@ DefaultContentLanguage = "en"
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "ENGLISH Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        topTitle= "Our Untold Stories"
+        title   = "Blog"
+        subtitle= "This is how our story unfolds"
 
         
 
