@@ -452,15 +452,15 @@ a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
-  border: 1px solid #f0326b;
-  background: #f0326b;
+  border: 1px solid #d21111;;
+  background: #d21111;;
   color: #fff;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link:hover {
-  border: 1px solid #f0326b;
+  border: 1px solid #d21111;;
   border-radius: 0;
-  background: #f0326b;
+  background: #d21111;;
   color: #fff;
 }
 

@@ -14,12 +14,15 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 
 #### The website should:
 
-- [ ] Be marked up using semantic HTML5 elements including main, section, nav and article
+- [x] Be marked up using semantic HTML5 elements including main, section, nav and article
 - [ ] Be fully accessible including aria-labels, tab index, title, alt and role attributes
 - [x] Use a CSS framework such as Bootstrap or Tachyons for visual layout
 
 - [x] Have a consistent approach to typography
 - [ ] Use colours that meet Web Content Accessibility Guidelines
+- [ ] Run website through Web Content Accessibility checker
+- [ ] Use ICO Generator to generate a BoxUp logo thats 16x16 pixels
+- [ ] Use Tachyons to add in "Measure" so sentence lines and text lines look more appealing
 - [x] Be responsive
 - [x] Work in multiple browsers
 

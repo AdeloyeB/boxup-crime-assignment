@@ -1,25 +1,32 @@
 enable: true
 topTitle: BOXUP BELIEFS
-title: ENGLISH About Us.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+title: About Us
+subtitle: 
 tabItem:
   - id: philosophy
-    title: ENGLISH Our Philosophy
-    heading: ENGLISH We Create Designs and technology
+    title: Who we are
+    heading: We are here because we care
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      BoxUp Crime is a social youth organisation operating out of the London borough Barking and Dagenham. We work with young people at risk of having their lives ruined by crime and motivate them to rebuild and recapture their dreams and aspirations. We believe that every young person is entitled to a bright future, inspired by their hopes and dreams, regardless of their background. We deliver our tailored sessions to schools, Pupil referral units and community centres across London. In our weekly sessions, we offer a foundation of discipline through engaging boxing training, educational programmes and mentoring. We provide young people job opportunities and apprenticeships as a stepping stone to their future.
     image: images/company/company-image.jpg
 
   - id: mission
-    title: ENGLISH Mission
-    heading: ENGLISH Our Mission
+    title: Our Mission
+    heading: Making that difference
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Provide the opportunity and resources in order to help all young people discover a true sense of self identity as well as guiding them to develop self-motivation strategies. Once being equipped with this, it will allow them to go on to self-fulfilment, making a successful life accessible, and ultimately decreasing and preventing the chance of them becoming a victim of senseless murders and going to prison.
     image: images/company/company-image-2.jpg
 
   - id: vision
-    title: ENGLISH Vision
-    heading: ENGLISH Our Vision
+    title: Vision
+    heading: What we see
     content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      An international youth led community, rebuilding misguided dreams through harnessing talents of young people.
+    image: images/company/company-image-3.jpg
+
+  - id: workforus
+    title: Work for us
+    heading: We need people who want to help us change the world
+    content: >
+      Hello <br> World
     image: images/company/company-image-3.jpg
