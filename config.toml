@@ -36,10 +36,10 @@ DefaultContentLanguage = "en"
     logo = "images/boxup-logo.png"
     menufixed = false
 
-    footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "This is the end of the page but not the end for you. Be apart of Box Up Crime. Be apart of a dream"
     footerServiceTitle = "Quicklinks"
-    footerAboutTitle = "ENGLISH About"
-    footerSubscribeTitle = "ENGLISH Subscribe"
+    footerAboutTitle = "About"
+
 
     # Hero Area Section
     [Languages.en.params.hero]
@@ -119,19 +119,15 @@ DefaultContentLanguage = "en"
 
     # Footer Service Menu
     [[menu.service]]
-        name    = "partners"
-        url     = "about"
-        weight  = 1
-    [[menu.service]]
         name    = "about"
         url     = "about"
         weight  = 2
     [[menu.service]]
-        name    = "faqs"
-        url     = "about"
+        name    = "portfolio"
+        url     = "portfolio"
         weight  = 3
     [[menu.service]]
-        name    = "badges"
-        url     = "about"
+        name    = "contact"
+        url     = "contact"
         weight  = 3
 
