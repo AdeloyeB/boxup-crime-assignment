@@ -1,7 +1,6 @@
 ---
 title: "The Nourish Box August"
 date: 2018-07-08T12:20:58+06:00
-image: images/blog/post-1.jpg
 author: Sansa Stark
 ---
 
