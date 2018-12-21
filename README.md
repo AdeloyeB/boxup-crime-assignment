@@ -1,5 +1,9 @@
 # assignment-prospex-website
 
+Casper and Ali have access to CMS. You should be able to login through google.
+
+ACCEPT THE INVIVATION THORUGH EMAIL
+
 This is creativePathway assignment. Our brief is to create a website for Prospex using a CMS system like Hugo or Jekyll.
 
 # Task 1: Basic Requirements (60%)
@@ -61,3 +65,6 @@ Hand in:
 - Hugo
 - Netlify
 - HTML, CSS and JS
+
+
+
