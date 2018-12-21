@@ -15,12 +15,12 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 #### The website should:
 
 - [x] Be marked up using semantic HTML5 elements including main, section, nav and article
-- [ ] Be fully accessible including aria-labels, tab index, title, alt and role attributes
+- [x] Be fully accessible including aria-labels, tab index, title, alt and role attributes
 - [x] Use a CSS framework such as Bootstrap or Tachyons for visual layout
 
 - [x] Have a consistent approach to typography
-- [ ] Use colours that meet Web Content Accessibility Guidelines
-- [ ] Run website through Web Content Accessibility checker
+- [x] Use colours that meet Web Content Accessibility Guidelines
+- [x] Run website through Web Content Accessibility checker
 - [ ] Use ICO Generator to generate a BoxUp logo thats 16x16 pixels
 - [ ] Use Tachyons to add in "Measure" so sentence lines and text lines look more appealing
 - [x] Be responsive
@@ -28,20 +28,20 @@ This is creativePathway assignment. Our brief is to create a website for Prospex
 
 ### Client Criteria: 20%
 
-- [ ] The website should communicate what the organisation is, what it does, and
+- [x] The website should communicate what the organisation is, what it does, and
       showcase its programmes.
 
 # Task 2: Advanced Requirements (40%)
 
 ### 2.1 Technical Criteria: (15%)
 
-- [ ] Pages and posts are editable by the client using a content management system.
+- [x] Pages and posts are editable by the client using a content management system.
 - [x] Deploys automatically on a push to the master branch to live site.
 - [x] Deploys automatically on a push to the test branch to test site.
 
 ### 2.2 Client Criteria: (25%)
 
-- [ ] The website should closely meet the client requirements laid out in the notes and
+- [x] The website should closely meet the client requirements laid out in the notes and
       documents contained in the project folder. These requirements are not clear, and
       you need to use your judgement as the designer to help the client communicate
       effectively online.
@@ -54,7 +54,7 @@ Hand in:
 
 - [x] A git repository
 - [x] The URL of your site
-- [ ] Login details to your CMS (if applicable)
+- [x] Login details to your CMS (if applicable)
 
 # What I Have Used:
 
