@@ -84,12 +84,6 @@ DefaultContentLanguage = "en"
         mapMarker   = "images/marker.png"
 
     # Call to Action Section on About Page
-    [Languages.en.params.cta]
-        enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Helping the misguided find a new path"
-        subtitle= "Pushing young people towards their dreams and goals."
-        btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
